@@ -2,7 +2,7 @@
 
 
 ### I started to learn programming
-   I going to learn <i class="fa-brands fa-js"></i> and TypeScript
+   I going to learn <i class="fa-brands fa-js">JavaScript</i> and <i class="fa-solid fa-t">TypeScript</i>
 
 ### Languages and toools
    No languages now :(
@@ -10,4 +10,4 @@
    WebStorm
    VisualStudio
 ### My contacts
-[Vk](https://vk.com/id731158952)
+[<i class="fa-brands fa-vk">VK</i>](https://vk.com/id731158952)
