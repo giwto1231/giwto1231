@@ -2,7 +2,7 @@
 
 
 ### I started to learn programming
-   I going to learn ![JS](https://fontawesome.com/icons/js?f=brands&s=solid) and TypeScript
+   I going to learn <i class="fa-brands fa-js"></i> and TypeScript
 
 ### Languages and toools
    No languages now :(
