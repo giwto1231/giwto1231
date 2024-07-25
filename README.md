@@ -2,7 +2,8 @@
 
 
 ### I started to learn programming
-   I going to learn <i class="fa-brands fa-js">JavaScript</i> and <i class="fa-solid fa-t">TypeScript</i>
+   I going to learn ![JSR Version](https://img.shields.io/jsr/v/:scope/:packageName)
+ and <i class="fa-solid fa-t">TypeScript</i>
 
 ### Languages and toools
    No languages now :(
