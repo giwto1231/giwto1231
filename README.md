@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 aligng="center"> Hiii, I`m Grisha </h1>
 
-<!--
-**giwto1231/giwto1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I started to learn programming
+   I going to learn JS and TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and toools
+   No languages now :(
+   VisualStudioCode
+   WebStorm
+   VisualStudio
+### My contacts
+[Vk](https://vk.com/id731158952)
