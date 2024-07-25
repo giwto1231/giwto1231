@@ -2,13 +2,10 @@
 
 
 ### I started to learn programming
-   I going to learn ![JSR Version](https://img.shields.io/jsr/v/:scope/:packageName)
- and <i class="fa-solid fa-t">TypeScript</i>
+   I going to learn JS and TS
 
-### Languages and toools
+### Languages
    No languages now :(
-   VisualStudioCode
-   WebStorm
-   VisualStudio
+
 ### My contacts
 [<i class="fa-brands fa-vk">VK</i>](https://vk.com/id731158952)
